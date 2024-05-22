@@ -13,7 +13,6 @@ lib
 
 # Coverage directory used by tools like istanbul
 coverage
-*.l
 
 # nyc test coverage
 .nyc_outp
