@@ -76,7 +76,7 @@ dist
 # Comment in the public line in if your project uses Gatsby and *not* Next.js
 # https://nextjs.org/blog/next-9-1#public-dir
 
-.vuepress/dist
+.vuepress
 
 # Serverless directories
 .serverless/
