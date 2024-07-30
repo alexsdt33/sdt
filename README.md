@@ -32,7 +32,7 @@ build/Release
 jspm_packages/
 
 # TypeScript v1 declaration files
-typings/
+typing
 
 # TypeScript cache
 *.tsbuildinfo
