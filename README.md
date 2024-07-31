@@ -27,6 +27,7 @@ bower_components
 
 # Compiled binary addons (https://nodejs.org/api/addons.html)
 build/Release
+rustup default stable
 
 # Dependency directories
 jspm_packages/
