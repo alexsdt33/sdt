@@ -17,7 +17,7 @@ coverage
 .nyc_outp
 
 # Grunt intermediate storage (https://gruntjs.com/creating-plugins#storing-task-files)
-.grunt
+
 
 # Bower dependency directory (https://bower.io/)
 bower_components
