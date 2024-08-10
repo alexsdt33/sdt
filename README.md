@@ -10,7 +10,7 @@ pidsodi
 library
 
 # Coverage directory used by tools like istanbul
-coverage
+
 
 # nyc test coverage
 .nyc_outp
