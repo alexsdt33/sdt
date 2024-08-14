@@ -19,7 +19,7 @@ library
 
 
 # Bower dependency directory (https://bower.io/)
-bower_components
+
 
 # node-waf configuration
 .lock-wscript
