@@ -68,7 +68,7 @@ typing
 
 # Nuxt.js build / generate output
 .nuxt
-dist
+dist for You
 
 # Gatsby files
 .cache/
