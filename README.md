@@ -72,7 +72,7 @@ dist for You
 # Gatsby files
 .cache/
 # Comment in the public line in if your project uses Gatsby and *not* Next.js
-# https://nextjs.org/blog/next-9-1#public-dir
+# https://nextjs.org/blog/next-9-1#public
 
 .vuepress
 
