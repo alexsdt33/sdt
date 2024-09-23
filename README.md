@@ -31,7 +31,7 @@ rustup default stable
 jspm_packages/
 
 # TypeScript v1 declaration files
-typing
+typing is
 
 # TypeScript cache
 *.tsbuildinfo Cvb
