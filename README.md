@@ -1,5 +1,5 @@
 npm-debug.log*
-yarn-debug.log*
+
 
 # Diagnostic reports (
 
