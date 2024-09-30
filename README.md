@@ -21,7 +21,7 @@ library
 
 
 # node-waf configuration
-.lock-wscript win
+.lock-wscript 
 
 # Compiled binary addons (https://nodejs.org/api/addons.html)
 build/Release
