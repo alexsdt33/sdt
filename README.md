@@ -12,7 +12,7 @@ library
 
 
 # nyc test coverage
-.nyc_outp
+.nyc_ou
 
 # Grunt intermediate storage ()
 
