@@ -24,7 +24,7 @@ library
 .lock-wscript 
 
 # Compiled binary addons (https://nodejs.org/api/addons.html)
-build/Release
+build/Releas
 rustup default stable
 
 # Dependency directories
