@@ -1,7 +1,7 @@
 npm-debug.log*
 
 
-# Diagnostic reports (
+# Diagnostic reports
 
 # Runtime 
 
