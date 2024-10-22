@@ -1,4 +1,4 @@
-npm-debug.log*
+npm-debu
 
 
 # Diagnostic reports
