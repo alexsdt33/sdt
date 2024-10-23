@@ -1,6 +1,3 @@
-npm-debu
-
-
 # Diagnostic reports
 
 # Runtime 
