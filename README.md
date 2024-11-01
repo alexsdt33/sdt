@@ -4,7 +4,7 @@
 
 
 # nyc test coverage
-.nyc_
+.nyc
 
 # Grunt intermediate storage ()
 
