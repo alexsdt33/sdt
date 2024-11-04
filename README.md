@@ -3,7 +3,7 @@
 # Cm  
 
 # nyc test coverage
-.nyc
+.nyca
 
 # Grunt intermediate storage ()
 
