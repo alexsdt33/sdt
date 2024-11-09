@@ -4,7 +4,7 @@
 # nyc test coverage
 .nycaYftd
 
-# Grunt intermediate storage ()
+# Grunt intermediate storage
 
 
 # Bower dependency directory (https://bower.io/)
