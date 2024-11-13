@@ -2,7 +2,7 @@
 
 
 # nyc test coverage
-.nycaYftd
+.nycaYf
 
 # Grunt intermediate storage
 
