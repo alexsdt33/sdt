@@ -15,7 +15,7 @@
 
 # Compiled binary addons (https://nodejs.org/api/addons.html)
 build/Releas
-rustup default stable
+rustup default
 
 # Dependency directories
 jspm_packages/
