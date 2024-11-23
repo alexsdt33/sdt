@@ -2,7 +2,7 @@
 
 
 # nyc test coverage
-.nyca  ggdf
+.nyca  
 
 # Grunt intermediate storage
 
