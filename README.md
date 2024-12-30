@@ -2,7 +2,7 @@
 
 
 # nyc test coverage
-.nyca  Ff
+.nyca  F
 
 # Grunt intermediate storage
 
