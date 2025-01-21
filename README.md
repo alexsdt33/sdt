@@ -2,7 +2,7 @@
 Jh
 
 # nyc test coverage
-.nycasg 
+.nycasg On
 
 # Grunt intermediate storage
 
