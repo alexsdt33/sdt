@@ -2,7 +2,7 @@
 
 
 # nyc test coverage
-.nycasg On 1.7.6
+.nycasg On 1.7
 
 # Grunt intermediate storage
 
